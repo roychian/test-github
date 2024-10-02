@@ -1,7 +1,7 @@
-# version 2
+# version 3
 
 import math
-a = 9.5
+a = 12.5
 print(a)
 print(round(a))
 print(math.ceil(a))
