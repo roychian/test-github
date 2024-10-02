@@ -1,3 +1,5 @@
+# version 2
+
 import math
 a = 9.5
 print(a)
